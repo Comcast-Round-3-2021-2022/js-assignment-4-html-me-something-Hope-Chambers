@@ -11,9 +11,9 @@
     padding-left: 80px; 
 
 }
-.Fifth{
+.funParagraph{
     border: 1px solid black;
-    background-color: lightpink;
+    color: green;
     padding-right: 30px;
     padding-left: 80px; 
 
@@ -27,3 +27,8 @@
     margin-left: 80px;
   
   }
+
+  #mainHeading{
+    color:red
+    }
+    
