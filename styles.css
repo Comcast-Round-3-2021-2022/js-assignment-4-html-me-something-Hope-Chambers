@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+.ScottPilgram {
+    border: 1px solid black;
+    background-color: red;
+    padding-right: 30px;
+    padding-left: 80px; 
+  }
+.Glad{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-right: 30px;
+    padding-left: 80px; 
+
+}
+.Fifth{
+    border: 1px solid black;
+    background-color: lightpink;
+    padding-right: 30px;
+    padding-left: 80px; 
+
+}
+
+.bulletpoints {
+    border: 1px solid purple;
+ 
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  
+  }
